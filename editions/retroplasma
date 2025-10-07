@@ -1,5 +1,3 @@
-## Maintained by Strit ##
-
 # Sound, Video and bluetooth
 alsa-utils
 mpv
@@ -9,6 +7,10 @@ pipewire-jack
 pipewire-pulse
 pipewire-zeroconf
 gst-plugin-pipewire
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
 
 # Display Manager
 sddm
@@ -27,6 +29,7 @@ kwallet-pam
 kwayland-integration
 plasma-wayland-protocols
 kwin
+kwin-x11
 plasma-desktop
 plasma-nm
 plasma-pa
@@ -41,6 +44,7 @@ plasma-firewall
 dolphin
 dolphin-plugins
 kate
+kdeconnect
 konsole
 ark
 okular
@@ -54,7 +58,6 @@ manjaro-arm-wallpapers
 breeze-gtk
 manjaro-icons
 
-
 # Office suite
 #libreoffice-fresh
 
@@ -64,7 +67,6 @@ firefox-ublock-origin
 
 # Package Manager
 pamac-gtk
-pamac-tray-icon-plasma
 
 # Fonts
 ttf-bitstream-vera
@@ -76,7 +78,6 @@ manjaro-settings-manager
 manjaro-hotfixes
 manjaro-arm-flasher
 manjaro-arm-installer
-matray
 
 # Other packages
 openresolv
@@ -84,6 +85,6 @@ wget
 power-profiles-daemon
 xdg-user-dirs
 networkmanager-openvpn
-firewalld
 xorg-server
 xorg-xinit
+7zip

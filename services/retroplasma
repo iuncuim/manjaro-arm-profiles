@@ -3,7 +3,6 @@ sddm.service
 NetworkManager.service
 bluetooth.service
 power-profiles-daemon.service
-firewalld.service
 zswap-arm.service
 systemd-oomd.service
 irqbalance.service
